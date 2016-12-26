@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <MailboxURI>http://mail.yandex.ru</MailboxURI>
+  <Login>al.al.pletnev.testmailbox@yandex.ru</Login>
+  <Password>Pg%e1xMe</Password>
+  <Folder>Входящие</Folder>
+  <From>hello@yandex.ru</From>
+  <Subject>Соберите всю почту в этот ящик</Subject>
+  <Text></Text>
+</config>
